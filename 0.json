@@ -1,0 +1,49 @@
+{
+  "name": "#1",
+  "symbol": "TSTX",
+  "description": "TEST",
+  "seller_fee_basis_points": 750,
+  "image": "0.png",
+  "external_url": "https://yourwebsite.com/details/0",
+  "attributes": [
+    {
+      "value": "United States of America",
+      "trait_type": "COUNTRY"
+    },
+    {
+      "value": "changed",
+      "trait_type": "changed"
+    },
+    {
+      "value": "George Washington",
+      "trait_type": "NAMED FOR"
+    },
+    {
+      "value": "680K+",
+      "trait_type": "POP"
+    }
+  ],
+  "collection": {
+    "name": "OGs",
+    "family": "Solana Candy Factory"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "0/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "share": 0,
+        "address": "TecnXiktKTinofuQ8phT5ErYV1Wv1vFSX8CYvVuT7Tt"
+      },
+      {
+        "share": 100,
+        "address": "2AqRVrCM9ho63VKgZmSs6thBZeeBXWygy9fGGYtsskEB"
+      }
+    ]
+  }
+}
